@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  LeftMenu_SliderTabs
+//  Prueba
 //
-//  Created by Ernesto Fdez on 19/3/16.
-//  Copyright © 2016 Ernesto. All rights reserved.
+//  Created by Ernesto Fdez on 8/3/16.
+//  Copyright © 2016 AE. All rights reserved.
 //
 
 import UIKit
@@ -12,8 +12,7 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-
-
+    
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
         return true
